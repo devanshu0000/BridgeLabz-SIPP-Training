@@ -18,4 +18,4 @@ public class AbundantNumber {
             System.out.println("Not an Abundant Number");
         }
     }
-}
+}                                                                                                       
